@@ -1,0 +1,6 @@
+Intended Solution:
+The description contains several hints for using "what 3 words" to  identify locations.
+https://what3words.com/calculating.frog.racks
+
+Answer:
+`hackUMBC{USS_CONSTELLATION}`
