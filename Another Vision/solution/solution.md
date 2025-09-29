@@ -1,0 +1,5 @@
+Intended Solution:
+Use Google Maps to search for `Intersection of Richmond and Chagrin` to find the exact location.
+
+Answer:
+`hackUMBC{BEACHWOOD}`

@@ -1,0 +1,5 @@
+Intended Solution:
+View the audio as a spectrogram, possibly using Audacity.
+
+Answer:
+`hackUMBC{1M_4_5H33P}`
